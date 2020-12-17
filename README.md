@@ -9,6 +9,9 @@ Backend server using express.js and mongoose for creating REST API endpoints
 - Secure endpoints for logged in users
 - Secure endpoint only accessible to admins
 
+## Deployment:
+> Heroku
+
 ## Usage:
 ```bash
 git clone https://github.com/MuktadirHassan/creative-agency-backend.git
